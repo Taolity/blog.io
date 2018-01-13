@@ -13,15 +13,15 @@ owner:
   bio: "Stay hungry,Stay foolish." # 填写作者信息：博客描述
 
 # Data
-gavatar: img/favicon.png # 浏览器地址栏小图标，可自定义更改
-favicon: img/favicon.png # 浏览器地址栏小图标，可自定义更改
+gavatar: img/apple.jpg # 浏览器地址栏小图标，可自定义更改
+favicon: img/ apple.jpg# favicon.png浏览器地址栏小图标，可自定义更改
 
 douban_username:  # 你的豆瓣id
 twitter_username: 
-github_username: https://github.com/Taolity
+github_username: Taolity
 facebook_username: 
 weibo_username: 
-zhihu_username: https://www.zhihu.com/people/wang-can-23-70
+zhihu_username:wang-can-23-70
 
 # Build settings  
 # use Github Flavored Markdown !important  
