@@ -1,5 +1,5 @@
 # Site settings
-title: wanghailin # 你的博客名字，可以定义修订
+title: 学而思习之 # 你的博客名字，可以定义修订
 header-img: "img/green.jpg"
 tagline: "cn"  
 description: "Faithful to my heart, fruitful to my result."  # 一句话描述你的博客
@@ -10,7 +10,7 @@ url: "http://wanghailin.info"  # 此处填写你的博客地址
 owner: 
   name: "hailinn" # 填写作者信息：名字
   email: hailln@163.com # 填写作者信息：邮箱
-  bio: "Stay hungry. Stay foolish." # 填写作者信息：博客描述
+  bio: "Stay hungry,Stay foolish." # 填写作者信息：博客描述
 
 # Data
 gavatar: img/favicon.png # 浏览器地址栏小图标，可自定义更改
@@ -33,7 +33,7 @@ paginate: 8
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: Asia/Shanghai
+timezone: Asia/Beijing
 
 # Defaults for posts
 defaults:
